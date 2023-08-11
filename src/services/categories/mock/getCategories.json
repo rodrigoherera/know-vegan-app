@@ -1,0 +1,641 @@
+{
+    "success": true,
+    "metadata":
+    {
+        "page": 1,
+        "limit": 10,
+        "total": 4,
+        "total_pages": 1
+    },
+    "data":
+    [
+        {
+            "id": 1,
+            "name": "Chocolates",
+            "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+            "products":
+            [
+                {
+                    "id": 1,
+                    "name": "Test",
+                    "description": "",
+                    "ingredients": "",
+                    "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2022-11-19T21:20:11.158-03:00",
+                    "updated_at": "2022-11-19T21:20:11.158-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Test",
+                    "description": "",
+                    "ingredients": "",
+                    "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2022-11-19T21:33:05.253-03:00",
+                    "updated_at": "2022-11-19T21:33:05.253-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [],
+                    "created_at": "2023-03-24T20:57:25.883-03:00",
+                    "updated_at": "2023-03-24T20:57:25.883-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "",
+                    "description": "",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [],
+                    "created_at": "2023-03-24T20:58:53.48-03:00",
+                    "updated_at": "2023-03-24T20:58:53.48-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T18:11:32.834-03:00",
+                    "updated_at": "2023-03-25T18:11:32.834-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T18:12:21.052-03:00",
+                    "updated_at": "2023-03-25T18:12:21.052-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T19:58:00.536-03:00",
+                    "updated_at": "2023-03-25T19:58:00.536-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T19:59:03.309-03:00",
+                    "updated_at": "2023-03-25T19:59:03.309-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T20:26:37.649-03:00",
+                    "updated_at": "2023-03-25T20:26:37.649-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "https://know-vegan-product-image.s3.us-east-2.amazonaws.com/some-image-base?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUDL2GYG3YE2FEVPV%2F20230325%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230325T232705Z&X-Amz-Expires=3153600000&X-Amz-SignedHeaders=host&X-Amz-Signature=aff9edc5a2bfa2355cbd432a99e5e239f49386ce3f61f52171289c3696e2bc36",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-25T20:27:13.467-03:00",
+                    "updated_at": "2023-03-25T20:27:13.467-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-26T11:20:03.506-03:00",
+                    "updated_at": "2023-03-26T11:20:03.506-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "https://know-vegan-product-image.s3.us-east-2.amazonaws.com/some-image-base?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUDL2GYG3YE2FEVPV%2F20230326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230326T142207Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d568af83e8e03e388c68d005006db51da6683f82b8df2f01835b09cc0421802",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-26T11:22:07.962-03:00",
+                    "updated_at": "2023-03-26T11:22:07.962-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "https://know-vegan-product-image.s3.us-east-2.amazonaws.com/some-image-base-2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUDL2GYG3YE2FEVPV%2F20230326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230326T142434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=daa9125e4e30a3edff8e02cf0d5c013a2b68f2a683ee0c6233e7c8cd5971b26f",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-26T11:24:34.857-03:00",
+                    "updated_at": "2023-03-26T11:24:34.857-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 15,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-26T11:25:10.439-03:00",
+                    "updated_at": "2023-03-26T11:25:10.439-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                },
+                {
+                    "id": 16,
+                    "name": "some-name",
+                    "description": "some-description",
+                    "ingredients": "some-ingredients",
+                    "photo": "https://know-vegan-product-image.s3.us-east-2.amazonaws.com/some-image-base-3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUDL2GYG3YE2FEVPV%2F20230326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230326T142538Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=751e192101dff41d0439ae0d502b56069bf7f37a9dce50fba7f2cacf65fbe636",
+                    "category_id": 1,
+                    "Tags":
+                    [
+                        {
+                            "id": 1,
+                            "name": "Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2023-03-26T11:25:38.547-03:00",
+                    "updated_at": "2023-03-26T11:25:38.547-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                }
+            ],
+            "created_at": "2022-11-19T21:19:34.248-03:00",
+            "updated_at": "2022-11-19T21:19:34.248-03:00",
+            "deleted_at":
+            {
+                "Time": "0001-01-01T00:00:00Z",
+                "Valid": false
+            }
+        },
+        {
+            "id": 2,
+            "name": "Snacks",
+            "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+            "products":
+            [
+                {
+                    "id": 3,
+                    "name": "Test",
+                    "description": "",
+                    "ingredients": "",
+                    "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+                    "category_id": 2,
+                    "Tags":
+                    [
+                        {
+                            "id": 2,
+                            "name": "No Suitable",
+                            "Products": null,
+                            "created_at": "0001-01-01T00:00:00Z",
+                            "updated_at": "0001-01-01T00:00:00Z",
+                            "deleted_at":
+                            {
+                                "Time": "0001-01-01T00:00:00Z",
+                                "Valid": false
+                            }
+                        }
+                    ],
+                    "created_at": "2022-11-19T21:34:05.48-03:00",
+                    "updated_at": "2022-11-19T21:34:05.48-03:00",
+                    "deleted_at":
+                    {
+                        "Time": "0001-01-01T00:00:00Z",
+                        "Valid": false
+                    }
+                }
+            ],
+            "created_at": "2022-11-19T21:34:00.94-03:00",
+            "updated_at": "2022-11-19T21:34:00.94-03:00",
+            "deleted_at":
+            {
+                "Time": "0001-01-01T00:00:00Z",
+                "Valid": false
+            }
+        },
+        {
+            "id": 3,
+            "name": "Gaseosas",
+            "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+            "created_at": "2022-11-22T21:25:59.269-03:00",
+            "updated_at": "2022-11-22T21:25:59.269-03:00",
+            "deleted_at":
+            {
+                "Time": "0001-01-01T00:00:00Z",
+                "Valid": false
+            }
+        },
+        {
+            "id": 4,
+            "name": "Galletitas",
+            "photo": "https://media.istockphoto.com/id/1031570676/photo/chocolate-dark-bitter-chocolate-chunks-chocolate-background.jpg?s=612x612&w=0&k=20&c=U0P2QdQ_FX2LkeN3v_z1TIU4s8YOIQfF7JbFYluYMY8=",
+            "created_at": "2022-11-22T21:26:09.01-03:00",
+            "updated_at": "2022-11-22T21:26:09.01-03:00",
+            "deleted_at":
+            {
+                "Time": "0001-01-01T00:00:00Z",
+                "Valid": false
+            }
+        }
+    ]
+}

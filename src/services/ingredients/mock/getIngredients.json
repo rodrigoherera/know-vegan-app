@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "metadata":
+  {
+      "page": 1,
+      "limit": 10,
+      "total": 4,
+      "total_pages": 1
+  },
+  "data":
+  [
+      {
+          "id": 1,
+          "name": "INS 414",
+          "description": "Goma arabica",
+          "Tags":
+          [
+              {
+                  "id": 1,
+                  "name": "Suitable",
+                  "Products": null,
+                  "created_at": "0001-01-01T00:00:00Z",
+                  "updated_at": "0001-01-01T00:00:00Z",
+                  "deleted_at":
+                  {
+                      "Time": "0001-01-01T00:00:00Z",
+                      "Valid": false
+                  }
+              }
+          ]
+      },
+      {
+        "id": 2,
+        "name": "INS 251",
+        "description": "Nitrato sodico",
+        "Tags":
+        [
+            {
+                "id": 1,
+                "name": "Suitable",
+                "Products": null,
+                "created_at": "0001-01-01T00:00:00Z",
+                "updated_at": "0001-01-01T00:00:00Z",
+                "deleted_at":
+                {
+                    "Time": "0001-01-01T00:00:00Z",
+                    "Valid": false
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Astrakhan",
+        "description": "Astrakhan",
+        "Tags":
+        [
+            {
+                "id": 1,
+                "name": "NoSuitable",
+                "Products": null,
+                "created_at": "0001-01-01T00:00:00Z",
+                "updated_at": "0001-01-01T00:00:00Z",
+                "deleted_at":
+                {
+                    "Time": "0001-01-01T00:00:00Z",
+                    "Valid": false
+                }
+            }
+        ]
+    }
+  ]
+}
